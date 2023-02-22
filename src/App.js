@@ -13,7 +13,7 @@ function App() {
       <Router>
         <Navbar />   {/* Es un componente que existe en cada pagina, sólo cambia lo que hay entre la navbar y el footer */}
         <Routes>
-          <Route path='/portfolio/build/' element={<Home />} />           {/* para definir una pagina se hace de esta manera */}
+          <Route path='/portfolio/build' element={<Home />} />           {/* para definir una pagina se hace de esta manera */}
           <Route path='/projects' element={<Projects />} />
           <Route path='/project/:id' element={<ProjectDisplay />} />
           <Route path='/experience' element={<Experience />} />
