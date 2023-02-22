@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/build/static/css/main.bc3e6218.css",
+    "main.js": "/portfolio/build/static/js/main.574c42a9.js",
+    "static/media/carelibro.png": "/portfolio/build/static/media/carelibro.1c9169f46c16fabcf4af.png",
+    "static/media/flask.png": "/portfolio/build/static/media/flask.1dfb0a77f9428d1882eb.png",
+    "static/media/reacttt.png": "/portfolio/build/static/media/reacttt.8a6fc0a24a800d1e0f4a.png",
+    "static/media/pythonlogo.png": "/portfolio/build/static/media/pythonlogo.82efb64f8698a267f8bf.png",
+    "static/media/coinbaseclon.png": "/portfolio/build/static/media/coinbaseclon.16bd72366d11e9adae46.png",
+    "static/media/sqlite.png": "/portfolio/build/static/media/sqlite.f05a612d02f52a49bcfe.png",
+    "static/media/bootstrap.png": "/portfolio/build/static/media/bootstrap.430491e6a02f91bf55d6.png",
+    "static/media/htmlcss.png": "/portfolio/build/static/media/htmlcss.39211af267367bea8b6d.png",
+    "static/media/sass.png": "/portfolio/build/static/media/sass.88c41dfc876247146c49.png",
+    "static/media/appnotas.png": "/portfolio/build/static/media/appnotas.42ad8227a3f831f04176.png",
+    "static/media/djangolargo.png": "/portfolio/build/static/media/djangolargo.1561b91d7b75f3ca2814.png",
+    "static/media/javascript.png": "/portfolio/build/static/media/javascript.266bd9fb2663dcc057b4.png",
+    "index.html": "/portfolio/build/index.html",
+    "main.bc3e6218.css.map": "/portfolio/build/static/css/main.bc3e6218.css.map",
+    "main.574c42a9.js.map": "/portfolio/build/static/js/main.574c42a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3e6218.css",
+    "static/js/main.574c42a9.js"
+  ]
+}
